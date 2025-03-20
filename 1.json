@@ -1,0 +1,12 @@
+{
+    "name": "100k here name",
+    "description": "100k here descr",
+    "image": "https://github.com/sepezho/funcgang-jetton-meta/blob/main/fgang.jpg?raw=true",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "nominal",
+        "value": "100000"
+      }
+    ]
+}

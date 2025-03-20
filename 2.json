@@ -1,0 +1,13 @@
+
+{
+    "name": "1m here name",
+    "description": "1m here descr",
+    "image": "https://github.com/sepezho/funcgang-jetton-meta/blob/main/fgang.jpg?raw=true",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "nominal",
+        "value": "1000000"
+      }
+    ]
+}

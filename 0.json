@@ -1,0 +1,12 @@
+{
+    "name": "vest NFT name",
+    "description": "vest nft desc ",
+    "image": "https://github.com/sepezho/funcgang-jetton-meta/blob/main/fgang.jpg?raw=true",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "type_vesting",
+        "value": "voucher"
+      }
+    ]
+  }
